@@ -1,0 +1,6 @@
+{
+  "name": "Cipher Lab REP500",
+  "description": "Client-side cryptographic suite featuring AES-256-GCM, PBKDF2 key derivation, and REP500 representation table with text and file encryption support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
